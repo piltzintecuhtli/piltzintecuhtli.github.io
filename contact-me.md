@@ -1,7 +1,8 @@
 # **Contact me:**
-## Social media:
-### Snapchat:
-### Discord:
+Social media:
+- Snapchat: @pilzintecuhtli
+- Discord: @piltzintecuhtli
 
-## Email: 
-### katie.lam102@gmail.com
+Email: 
+- katie.lam102@gmail.com
+- katherinelam@grotonk12.org
