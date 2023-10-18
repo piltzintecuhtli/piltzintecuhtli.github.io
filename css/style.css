@@ -10,6 +10,10 @@ body {
   padding: 90px 0;
 }
 
+.layout_padding3-top {
+  padding-top: 25px;
+}
+
 .layout_padding2 {
   padding: 75px 0;
 }
@@ -28,6 +32,14 @@ body {
 
 .layout_padding-bottom {
   padding-bottom: 90px;
+}
+
+.align_image-text-bottom {
+  vertical-align: text-bottom;
+}
+
+.align_image-top {
+  vertical-align: top
 }
 
 .heading_container {
