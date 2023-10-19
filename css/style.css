@@ -82,13 +82,13 @@ body {
 }
 
 /*TODO: split into two functions*/
-.table_setup {
+.table_setup td, .table_setup th, .table_setup tr {
   border: 1px;
-  border-color: black;
+  border-color: darkblue;
   border-style: solid;
   
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
 }
 
 a,
