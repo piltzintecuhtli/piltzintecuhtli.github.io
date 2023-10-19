@@ -14,6 +14,10 @@ body {
   padding-top: 25px;
 }
 
+.layout_padding3-bottom {
+  padding-bottom: 25px;
+}
+
 .layout_padding2 {
   padding: 75px 0;
 }
@@ -75,6 +79,16 @@ body {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+}
+
+/*TODO: split into two functions*/
+.table_setup {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 a,
