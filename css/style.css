@@ -52,6 +52,10 @@ body {
   margin-right: auto;
 }
 
+.center_text h1, p{
+  text-align: center;
+}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
