@@ -46,6 +46,12 @@ body {
   vertical-align: top
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
