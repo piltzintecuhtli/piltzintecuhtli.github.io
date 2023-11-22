@@ -38,6 +38,10 @@ body {
   padding-bottom: 90px;
 }
 
+.icon_padding-botom {
+  padding-bottom: 20px;
+}
+
 .align_image-text-bottom {
   vertical-align: text-bottom;
 }
@@ -643,9 +647,7 @@ a:focus {
 }
 
 .team_section .heading_container {
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 
 .team_section .team_container {
@@ -667,12 +669,9 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 .team_section .team_container .box .img-box img {
