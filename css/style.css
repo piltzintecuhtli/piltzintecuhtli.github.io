@@ -7,7 +7,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 50px 0;
 }
 
 .layout_padding3-top {
@@ -38,8 +38,9 @@ body {
   padding-bottom: 90px;
 }
 
-.icon_padding-botom {
-  padding-bottom: 20px;
+.layout_padding-sides {
+  padding-left: 70px;
+  padding-right: 70px;
 }
 
 .align_image-text-bottom {
@@ -56,7 +57,7 @@ body {
   margin-right: auto;
 }
 
-.center_text h1, p{
+.center_text h1, h2, p{
   text-align: center;
 }
 
