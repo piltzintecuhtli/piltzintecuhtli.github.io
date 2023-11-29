@@ -6,19 +6,20 @@ body {
   overflow-x: hidden;
 }
 
-.list-text li{
+.extracurriculars p {
+  text-align: left;
   font-size: 18px;
-  font-weight: 1000;
+  font-weight: bolder;
 }
 
-.list-text li ul li{
+.extracurriculars li {
   font-size: 16px;
-  font-weight: 750;
+  font-weight: bold;
 }
 
-.list-text li ul li ul li {
+.extracurriculars li ul li {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: normal;
 }
 
 .layout_padding {
